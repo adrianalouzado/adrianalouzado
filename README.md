@@ -4,7 +4,7 @@
 
 - Object-oriented programming principles
 - Quality assurance
-- Cyber Secutiy 
+- Cyber Security 
 - Software testing methodologies
 - Version control with Git and GitHub
 
