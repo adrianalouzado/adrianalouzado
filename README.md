@@ -2,9 +2,11 @@
 
 🌱 I'm currently enhancing my knowledge in areas such as:
 
-- Cybersecurity fundamentals
-- Python programming 
-- Network security
+- Cybersecurity fundamentals.
+- Python language. 
+- Network security.
+- Vulnerability analysis.
+- Security monitoring. 
 
 💡 I'm particularly interested in:
 
