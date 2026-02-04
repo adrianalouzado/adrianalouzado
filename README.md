@@ -1,17 +1,12 @@
-👋 Hi there! I'm Adriana, a passionate student of Security Management and Cyber Defense. 
+👋 Hi there! I'm Adriana, a Cyber Security professional with experience in digital defense operations and technical support within high-security environments.
 
 🌱 I'm currently enhancing my knowledge in areas such as:
 
-- Cybersecurity fundamentals.
-- Python language. 
-- Network security.
-- Vulnerability analysis.
-- Security monitoring. 
+- Web3 & Blockchain
+- Smart Contracts Security: identifying vulnerabilities like reentrancy, logic flaws, and access control issues.
+- DeFi Protocols: analyzing decentralized finance architectures from a risk and protection perspective.
 
-💡 I'm particularly interested in:
+💡 Let's Connect
+I’m open to collaborating on open-source security projects or discussing the latest in Web3 defense.
 
-- Continuous learning and professional growth in the dynamic field of cybersecurity
-- Contributing to open-source cybersecurity projects and collaborating with the community
-- Exploration of advanced cybersecurity frameworks, tools and techniques, with an emphasis on their application in cybersecurity management and defense.
-
-📫 Feel free to reach out to me on GitHub for collaboration opportunities, discussions, or just to say hello! Let's build something amazing together. 😊
+Find me on: https://www.linkedin.com/in/adrianalouzado/ 
