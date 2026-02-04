@@ -1,4 +1,4 @@
-👋 Hi there! I'm Adriana, a Cyber Security professional with experience in digital defense operations and technical support within high-security environments.
+👋 Hi there! I'm a Cyber Security professional with experience in digital defense operations and technical support within high-security environments.
 
 🌱 I'm currently enhancing my knowledge in areas such as:
 
