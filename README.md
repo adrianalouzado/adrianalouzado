@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Adriana%20Louzado&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
-
-  <h3>Cybersecurity Analyst | Web3 Security Researcher | Python</h3>
-</div>
+<p align="center">
+  <img src="1766112160865.png" alt="Adriana Louzado Banner" width="100%">
+</p>
 
 ---
 
